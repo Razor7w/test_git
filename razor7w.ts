@@ -1,1 +1,3 @@
-console.log("holi");
+const msg = 'holi'
+
+console.log(msg)
